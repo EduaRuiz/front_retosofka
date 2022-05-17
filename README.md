@@ -55,9 +55,13 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
   
   pass: admin
 
-tener instaladas todas las dependencias de react y node
+Tener instaladas todas las dependencias de react y node
 
 Correr proyecto desde un IDE
+
+En este proyecto se usó react, librerías, como adiós, @mui, react-router-dom, jet
+
+
 
 
 
