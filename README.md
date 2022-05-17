@@ -59,7 +59,7 @@ Tener instaladas todas las dependencias de react y node
 
 Correr proyecto desde un IDE
 
-En este proyecto se usó react, librerías, como adiós, @mui, react-router-dom, jet
+En este proyecto se usó react, librerías como: axios, @mui, react-router-dom, jwt, etc.
 
 
 
